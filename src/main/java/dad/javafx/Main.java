@@ -1,4 +1,4 @@
-package dad.javafx.AdivinApp;
+package dad.javafx;
 
 public class Main {
 

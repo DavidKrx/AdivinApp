@@ -1,4 +1,4 @@
-package dad.javafx.AdivinApp;
+package dad.javafx;
 
 import javafx.application.Application;
 import javafx.event.ActionEvent;
